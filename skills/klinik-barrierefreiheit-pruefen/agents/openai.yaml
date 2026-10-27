@@ -1,0 +1,4 @@
+interface:
+  display_name: Digitale Barrieren nachvollziehbar prüfen
+  short_description: Digitale Barrieren nachvollziehbar prüfen
+  default_prompt: Verwende $klinik-barrierefreiheit-pruefen und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

@@ -1,0 +1,4 @@
+interface:
+  display_name: Eine Verwaltungsverbesserung schrittweise erproben
+  short_description: Eine Verwaltungsverbesserung schrittweise erproben
+  default_prompt: Verwende $klinik-verbesserung-erproben und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

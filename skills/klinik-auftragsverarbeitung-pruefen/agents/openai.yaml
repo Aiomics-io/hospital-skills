@@ -1,0 +1,4 @@
+interface:
+  display_name: Vereinbarung zur Auftragsverarbeitung prüfen
+  short_description: Vereinbarung zur Auftragsverarbeitung prüfen
+  default_prompt: Verwende $klinik-auftragsverarbeitung-pruefen und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

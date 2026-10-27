@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Bitte nennen Sie bei einer Weiterverwendung die Sammlung und die verwendete Fassung."
+title: "KI-Arbeitshilfen für deutsche Krankenhäuser von aiomics"
+type: software
+authors:
+  - name: "aiomics GmbH"
+    website: "https://www.aiomics.io/de/ueber-uns"
+version: "0.1"
+date-released: 2026-10-27
+url: "https://github.com/Aiomics-io/hospital-skills"
+repository-code: "https://github.com/Aiomics-io/hospital-skills"
+license: Apache-2.0
+abstract: "15 deutsche KI-Arbeitshilfen für Verwaltung und ärztliche Leitung in Krankenhäusern, mit Methodenhinweisen, Ergebnisvorlagen und synthetischen Beispielen."

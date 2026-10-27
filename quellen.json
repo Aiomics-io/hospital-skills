@@ -1,0 +1,215 @@
+{
+  "stand": "2026-10-27",
+  "quellen": {
+    "lighthouse": {
+      "titel": "Lighthouse",
+      "adresse": "https://github.com/GoogleChrome/lighthouse/blob/1a4ffa418258919adbbf6ccca548c02e0092bafd/readme.md",
+      "einordnung": "Langjährig gepflegtes Prüfwerkzeug; in Chrome integriert. Messungen gelten für die dokumentierte Ausführung.",
+      "art": "Werkzeug"
+    },
+    "seo": {
+      "titel": "Google Search Central",
+      "adresse": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=de",
+      "einordnung": "Primärquelle zur Auffindbarkeit. Eine Suchposition oder Aufnahme in den Suchindex wird dadurch nicht zugesichert.",
+      "art": "Fachquelle"
+    },
+    "marketing": {
+      "titel": "marketingskills",
+      "adresse": "https://github.com/coreyhaines31/marketingskills/blob/17772c7a80b7b8c7a47af30f648374cd8bd8adc5/skills/seo-audit/SKILL.md",
+      "einordnung": "Übernommen: Reihenfolge der Prüfung und belegbezogene Befunde. Junge, verbreitete Sammlung; kein Wirksamkeitsnachweis für Krankenhäuser.",
+      "art": "Anleitung"
+    },
+    "axe": {
+      "titel": "axe-core",
+      "adresse": "https://github.com/dequelabs/axe-core/blob/6b52b841461bd23345970b91ec75fdaff6bad31a/README.md",
+      "einordnung": "Gepflegte Prüfregeln mit automatisierten Tests. Automatisch prüfbare Regeln decken nur einen Teil der Barrieren ab.",
+      "art": "Werkzeug"
+    },
+    "wcag": {
+      "titel": "W3C WCAG-EM",
+      "adresse": "https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/",
+      "einordnung": "Etabliertes Vorgehen für Abgrenzung, Stichprobe, Prüfung und Bericht. Verweis umfasst die Weiterentwicklung zu WCAG-EM 2.0 im Juli 2026.",
+      "art": "Prüfmethodik"
+    },
+    "bfsg": {
+      "titel": "Bundesfachstelle Barrierefreiheit",
+      "adresse": "https://www.bundesfachstelle-barrierefreiheit.de/DE/Barrierefreiheitsstaerkungsgesetz/FAQ-elektronischer-Geschaeftsverkehr/faq-elektronischer-Geschaeftsverkehr_node",
+      "einordnung": "Anwendbarkeit hängt unter anderem von Trägerschaft und konkreter Dienstleistung ab.",
+      "art": "Deutscher Bezug"
+    },
+    "dtac": {
+      "titel": "NHS England DTAC",
+      "adresse": "https://digital.nhs.uk/services/digital-technology-assessment-criteria-dtac",
+      "einordnung": "Seit mehreren Jahren eingesetztes Beschaffungsraster; nach Beteiligung der Praxis im Februar 2026 überarbeitet. Übertragen werden fünf Prüffelder.",
+      "art": "Praxisrahmen"
+    },
+    "dtac_scope": {
+      "titel": "NHS England: Geltungsbereich",
+      "adresse": "https://digital.nhs.uk/services/digital-technology-assessment-criteria-dtac/how-dtac-works",
+      "einordnung": "Gesundheitsbezogene digitale Anwendungen sind erfasst; allgemeine Personal- und Finanzprogramme fallen außerhalb dieses Rahmens.",
+      "art": "Praxisrahmen"
+    },
+    "dtac_review": {
+      "titel": "NHS England: Durchführung",
+      "adresse": "https://digital.nhs.uk/services/digital-technology-assessment-criteria-dtac/conduct-a-dtac-assessment",
+      "einordnung": "Übernommen: Nachweise pro Produktfassung, fachliche Zuständigkeiten und erneute Prüfung bei Änderungen. Britische Rechtspflichten werden nicht übernommen.",
+      "art": "Praxisrahmen"
+    },
+    "cnil": {
+      "titel": "CNIL PIA",
+      "adresse": "https://www.cnil.fr/sites/cnil/files/atoms/files/cnil-pia-1-en-methodology.pdf",
+      "einordnung": "Behördliche Methodik, Ausgabe Februar 2018: Verarbeitung beschreiben, Grundsätze prüfen, Risiken bewerten, Entscheidung dokumentieren.",
+      "art": "Prüfmethodik"
+    },
+    "sdm": {
+      "titel": "Datenschutzkonferenz: Standard-Datenschutzmodell",
+      "adresse": "https://www.datenschutzkonferenz-online.de/anwendungshinweise.html",
+      "einordnung": "Version 3.1 von 2024, mit dokumentierter Entwicklung seit 2016. Verbindet Datenschutzanforderungen mit Schutzmaßnahmen.",
+      "art": "Deutscher Bezug"
+    },
+    "gdpr": {
+      "titel": "Verordnung (EU) 2016/679",
+      "adresse": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679",
+      "einordnung": "Maßgeblich sind insbesondere Art. 5, 6, 9, 28, 32, 35, 36 und Kapitel V. Aktuelle Fassung und konkrete Anwendbarkeit bei Nutzung prüfen.",
+      "art": "Rechtsquelle"
+    },
+    "dpa": {
+      "titel": "Durchführungsbeschluss (EU) 2021/915",
+      "adresse": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32021D0915",
+      "einordnung": "Offizielle Standardvertragsklauseln zwischen Verantwortlichen und Auftragsverarbeiter:innen. Gesonderte Prüfung von Drittlandübermittlungen bleibt erforderlich.",
+      "art": "Rechtsquelle"
+    },
+    "c5": {
+      "titel": "BSI: C5",
+      "adresse": "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/kriterienkatalog-c5_node.html",
+      "einordnung": "Etablierter Kriterienkatalog für die Prüfung ausgelagerter Rechendienste. Prüfbericht, Zeitraum, Leistungsumfang und Kund:innenpflichten sind entscheidend.",
+      "art": "Prüfrahmen"
+    },
+    "c5_faq": {
+      "titel": "BSI: Nachweise externer Rechendienste",
+      "adresse": "https://www.bsi.bund.de/DE/Themen/Oeffentliche-Verwaltung/Mindeststandards/Externe_Cloud-Dienste/FAQ_MST_Externe_Cloud-Dienste/faq_mst_Externe_Cloud-Dienste_node.html",
+      "einordnung": "Ein Testat betrifft den geprüften Umfang. Ein Nachweis des Infrastrukturbetreibers belegt nicht automatisch die darüber betriebene Anwendung.",
+      "art": "Deutscher Bezug"
+    },
+    "sgb393": {
+      "titel": "§ 393 SGB V",
+      "adresse": "https://www.gesetze-im-internet.de/sgb_5/__393.html",
+      "einordnung": "Aktuelle Vorschrift zu ausgelagerter Verarbeitung von Sozial- und Gesundheitsdaten einschließlich Nachweisen, Kund:innenpflichten und Ausnahmen. Am 27. Oktober 2026 unmittelbar geprüft.",
+      "art": "Rechtsquelle"
+    },
+    "process": {
+      "titel": "Anthropic: process-doc",
+      "adresse": "https://github.com/anthropics/knowledge-work-plugins/blob/c75fda00ff0e41c8ee331ae312c8a07f1967653b/operations/skills/process-doc/SKILL.md",
+      "einordnung": "Übernommen: Zweck, Verantwortungen, Schritte, Ausnahmen und Messgrößen. Die junge Anleitung liefert eine Struktur; ihre Beliebtheit belegt keine Krankenhauswirksamkeit.",
+      "art": "Anleitung"
+    },
+    "who_documents": {
+      "titel": "WHO: Qualitätsdokumentation im Labor",
+      "adresse": "https://www.who.int/publications/m/item/laboratory-quality-manual",
+      "einordnung": "Seit 2014 veröffentlichte Vorlagensammlung mit 24 Anhängen, darunter Dokumentenlenkung und Verwaltung von Arbeitsanweisungen. Angrenzender fachlicher Bezug für örtlich angepasste Verfahren; Laboranforderungen werden nicht pauschal auf die Krankenhausverwaltung übertragen.",
+      "art": "Praxismethodik"
+    },
+    "qm": {
+      "titel": "Gemeinsamer Bundesausschuss: Qualitätsmanagement-Richtlinie",
+      "adresse": "https://www.g-ba.de/richtlinien/87/",
+      "einordnung": "Fassung mit Änderung vom 18. Juni 2026, in Kraft seit 20. August 2026. Deutscher organisatorischer Bezug; enthält keine Freigabe dieser Arbeitshilfe.",
+      "art": "Deutscher Bezug"
+    },
+    "pdsa": {
+      "titel": "AHRQ: Verbesserungszyklen",
+      "adresse": "https://www.ahrq.gov/health-literacy/improve/precautions/tool2b.html",
+      "einordnung": "Arbeitsweise aus der dritten Auflage einer über mehrere Auflagen entwickelten Versorgungshilfe: kleine Erprobung, Vorhersage, Beobachtung, Auswertung, Anpassung.",
+      "art": "Praxismethodik"
+    },
+    "team": {
+      "titel": "AHRQ TeamSTEPPS: Nachbesprechung",
+      "adresse": "https://www.ahrq.gov/teamstepps-program/curriculum/team/tools/debrief.html",
+      "einordnung": "Strukturierte Nachbesprechung mit Beobachtungen, Zusammenarbeit und vereinbarten Verbesserungen.",
+      "art": "Praxismethodik"
+    },
+    "team_evidence": {
+      "titel": "AHRQ TeamSTEPPS: Forschungsgrundlage",
+      "adresse": "https://www.ahrq.gov/teamstepps-program/evidence-base/index.html",
+      "einordnung": "Enthält Forschung zu Zusammenarbeit und Umsetzung. Ergebnisse verschiedener Einrichtungen lassen keine pauschale Wirkungsgröße für diese Anpassung zu.",
+      "art": "Forschungsbezug"
+    },
+    "psirf": {
+      "titel": "NHS England PSIRF",
+      "adresse": "https://www.england.nhs.uk/publication/patient-safety-incident-response-framework-and-supporting-guidance/",
+      "einordnung": "Seit 2022 weiterentwickelter Rahmen für systembezogenes Lernen nach Ereignissen; Unterlagen zuletzt 2026 aktualisiert.",
+      "art": "Praxisrahmen"
+    },
+    "psirf_guide": {
+      "titel": "NHS England: angemessene Ereignisaufarbeitung",
+      "adresse": "https://www.england.nhs.uk/wp-content/uploads/2022/08/b1465-3-guide-to-responding-proportionately-to-patient-safety-incidents-v1.3.pdf",
+      "einordnung": "Version 1.3: Beteiligung Betroffener, passende Untersuchungstiefe und Zusammenwirken organisatorischer Bedingungen.",
+      "art": "Praxismethodik"
+    },
+    "opm": {
+      "titel": "U.S. Office of Personnel Management",
+      "adresse": "https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/structured-interviews/",
+      "einordnung": "Strukturierte Auswahlgespräche mit tätigkeitsbezogenen Fragen und vorab definierten Bewertungsankern; die Fachseite verweist auf jahrzehntelange Forschung.",
+      "art": "Forschungsbezug"
+    },
+    "opm_guide": {
+      "titel": "U.S. Office of Personnel Management: Gesprächsvorbereitung",
+      "adresse": "https://www.opm.gov/policy-data-oversight/assessment-and-selection/structured-interviews/",
+      "einordnung": "Praktische Anleitung zur Vorbereitung strukturierter Gespräche. Übertragen wird die Gestaltung des Verfahrens.",
+      "art": "Praxismethodik"
+    },
+    "agg": {
+      "titel": "Allgemeines Gleichbehandlungsgesetz",
+      "adresse": "https://www.gesetze-im-internet.de/agg/",
+      "einordnung": "Deutscher Bezug für tätigkeitsbezogene und diskriminierungsarme Auswahl. Keine automatisierte Bewertung von Bewerber:innen.",
+      "art": "Rechtsquelle"
+    },
+    "literacy": {
+      "titel": "AHRQ: verständliche Patienteninformationen",
+      "adresse": "https://www.ahrq.gov/health-literacy/improve/precautions/tool11.html",
+      "einordnung": "Dritte Auflage, Werkzeug 11: Verständlichkeit, konkrete Handlungsmöglichkeiten und Rückmeldung der vorgesehenen Leser:innen.",
+      "art": "Praxismethodik"
+    },
+    "literacy_all": {
+      "titel": "AHRQ: Gesundheitskompetenz",
+      "adresse": "https://www.ahrq.gov/health-literacy/improve/precautions/index.html",
+      "einordnung": "Mehrfach überarbeitete Sammlung mit Entwicklungs- und Anwendungsliteratur. Eine deutsche Anpassung muss mit ihren Leser:innen erprobt werden.",
+      "art": "Forschungsbezug"
+    },
+    "refine": {
+      "titel": "OpenRefine",
+      "adresse": "https://github.com/OpenRefine/OpenRefine/blob/ba887cacc5a3a6dc06c1f66f0fdc5f61694ae6e4/README.md",
+      "einordnung": "Seit 2012 unter diesem Namen gepflegtes, zuvor als Google Refine betriebenes Werkzeug zur nachvollziehbaren Datenbereinigung.",
+      "art": "Werkzeug"
+    },
+    "refine_edit": {
+      "titel": "OpenRefine: Zellbearbeitung",
+      "adresse": "https://openrefine.org/docs/manual/cellediting",
+      "einordnung": "Vorschau, Gruppierung, Datentypen und rücknehmbare Schritte. Ähnliche Schreibweisen belegen keine Identität von Personen oder Einrichtungen.",
+      "art": "Werkzeuganleitung"
+    },
+    "refine_run": {
+      "titel": "OpenRefine: lokaler Betrieb",
+      "adresse": "https://openrefine.org/docs/manual/running",
+      "einordnung": "Grundfunktionen laufen lokal. Externe Abgleichsdienste und Erweiterungen können Daten übertragen und benötigen eine eigene Freigabe.",
+      "art": "Werkzeuganleitung"
+    },
+    "greenbook": {
+      "titel": "HM Treasury: The Green Book 2026",
+      "adresse": "https://www.gov.uk/government/publications/the-green-book--2",
+      "einordnung": "Langjährig überarbeitete Anleitung für Optionen, Kosten, Nutzen, Unsicherheit und spätere Auswertung; aktuelle Ausgabe Februar 2026.",
+      "art": "Praxismethodik"
+    },
+    "nice": {
+      "titel": "NICE: Evidenzstandards für digitale Gesundheitstechnologien",
+      "adresse": "https://www.nice.org.uk/corporate/ecd7/chapter/how-to-meet-the-standards",
+      "einordnung": "Rahmen seit 2018, überarbeitet 2022. Aussagen zur Wirkung werden mit passenden Untersuchungen und Erprobung im vorgesehenen Umfeld verknüpft.",
+      "art": "Prüfrahmen"
+    },
+    "nice_use": {
+      "titel": "NICE: Anwendung des Evidenzrahmens",
+      "adresse": "https://www.nice.org.uk/corporate/ecd7/resources/evidence-standards-framework-for-digital-health-technologies-user-guide-9024813901/chapter/how-to-use-the-framework",
+      "einordnung": "Hilft bei der Zuordnung von Nutzenbehauptung und Nachweis. Die Einstufung ersetzt keine Zulassungs-, Sicherheits- oder Beschaffungsentscheidung.",
+      "art": "Prüfrahmen"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: Verwaltungsdaten mit OpenRefine prüfen
+  short_description: Verwaltungsdaten mit OpenRefine prüfen
+  default_prompt: Verwende $klinik-verwaltungsdaten-pruefen und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

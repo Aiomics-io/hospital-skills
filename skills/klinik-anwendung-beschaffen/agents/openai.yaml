@@ -1,0 +1,4 @@
+interface:
+  display_name: Beschaffung einer digitalen Anwendung vorbereiten
+  short_description: Beschaffung einer digitalen Anwendung vorbereiten
+  default_prompt: Verwende $klinik-anwendung-beschaffen und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

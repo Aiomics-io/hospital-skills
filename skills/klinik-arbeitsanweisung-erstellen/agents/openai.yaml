@@ -1,0 +1,4 @@
+interface:
+  display_name: Administrative Arbeitsanweisung erstellen und vergleichen
+  short_description: Administrative Arbeitsanweisung erstellen und vergleichen
+  default_prompt: Verwende $klinik-arbeitsanweisung-erstellen und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

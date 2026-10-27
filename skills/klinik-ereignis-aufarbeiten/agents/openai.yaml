@@ -1,0 +1,4 @@
+interface:
+  display_name: Lernen nach einem Ereignis vorbereiten
+  short_description: Lernen nach einem Ereignis vorbereiten
+  default_prompt: Verwende $klinik-ereignis-aufarbeiten und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

@@ -1,0 +1,4 @@
+interface:
+  display_name: Strukturierte Auswahlgespräche vorbereiten
+  short_description: Strukturierte Auswahlgespräche vorbereiten
+  default_prompt: Verwende $klinik-auswahlgespraech-vorbereiten und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

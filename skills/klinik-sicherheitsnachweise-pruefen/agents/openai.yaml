@@ -1,0 +1,4 @@
+interface:
+  display_name: Sicherheitsnachweise eines Anbieters einordnen
+  short_description: Sicherheitsnachweise eines Anbieters einordnen
+  default_prompt: Verwende $klinik-sicherheitsnachweise-pruefen und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.
