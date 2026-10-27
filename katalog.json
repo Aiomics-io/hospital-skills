@@ -1,0 +1,163 @@
+[
+  {
+    "slug": "klinik-internetseite-pruefen",
+    "title": "Internetseite eines Krankenhauses prüfen",
+    "description": "Prüfe die Auffindbarkeit, Ladeleistung und Kontaktwege einer Krankenhausseite anhand vorhandener Berichte oder einer lesenden Untersuchung. Erstelle belegte Verbesserungsvorschläge.",
+    "audience": "Öffentlichkeitsarbeit und Informationstechnik",
+    "sources": [
+      "lighthouse",
+      "seo",
+      "marketing"
+    ]
+  },
+  {
+    "slug": "klinik-barrierefreiheit-pruefen",
+    "title": "Digitale Barrieren nachvollziehbar prüfen",
+    "description": "Bereite eine Prüfung der Barrierefreiheit von Krankenhausseiten vor und werte axe-core-Berichte mit manuellen Beobachtungen aus. Dokumentiere Umfang und offene Prüfschritte.",
+    "audience": "Öffentlichkeitsarbeit, Informationstechnik und zuständige Beauftragte",
+    "sources": [
+      "axe",
+      "wcag",
+      "bfsg"
+    ]
+  },
+  {
+    "slug": "klinik-anwendung-beschaffen",
+    "title": "Beschaffung einer digitalen Anwendung vorbereiten",
+    "description": "Strukturiere die fachliche Vorprüfung einer digitalen Gesundheitsanwendung für ein deutsches Krankenhaus. Verknüpfe Anbieterbehauptungen mit produktbezogenen Nachweisen und offenen Entscheidungen.",
+    "audience": "Einkauf, ärztliche Leitung, Informationstechnik und Datenschutz",
+    "sources": [
+      "dtac",
+      "dtac_scope",
+      "dtac_review",
+      "gdpr"
+    ]
+  },
+  {
+    "slug": "klinik-datenschutzfolgen-pruefen",
+    "title": "Datenschutz-Folgenabschätzung vorbereiten",
+    "description": "Bereite eine Datenschutz-Folgenabschätzung für einen konkret beschriebenen Krankenhausprozess nach CNIL-Methodik und deutschem Standard-Datenschutzmodell vor.",
+    "audience": "Datenschutzbeauftragte und Prozessverantwortliche",
+    "sources": [
+      "cnil",
+      "sdm",
+      "gdpr"
+    ]
+  },
+  {
+    "slug": "klinik-auftragsverarbeitung-pruefen",
+    "title": "Vereinbarung zur Auftragsverarbeitung prüfen",
+    "description": "Prüfe bereitgestellte Vereinbarungen zur Auftragsverarbeitung auf Vollständigkeit und Widersprüche anhand von Art. 28 DSGVO und den Standardvertragsklauseln 2021/915.",
+    "audience": "Datenschutz, Einkauf und Rechtsabteilung",
+    "sources": [
+      "dpa",
+      "gdpr"
+    ]
+  },
+  {
+    "slug": "klinik-sicherheitsnachweise-pruefen",
+    "title": "Sicherheitsnachweise eines Anbieters einordnen",
+    "description": "Ordne Sicherheitsnachweise für ausgelagerte digitale Krankenhausanwendungen nach geprüftem Umfang, Zeitraum, Ausnahmen und verbleibenden Aufgaben ein.",
+    "audience": "Informationssicherheit, Informationstechnik und Einkauf",
+    "sources": [
+      "c5",
+      "c5_faq",
+      "sgb393",
+      "gdpr"
+    ]
+  },
+  {
+    "slug": "klinik-arbeitsanweisung-erstellen",
+    "title": "Administrative Arbeitsanweisung erstellen und vergleichen",
+    "description": "Überführe belegte Verwaltungsabläufe im Krankenhaus in eine Arbeitsanweisung oder vergleiche zwei Fassungen. Bewahre örtliche Zuständigkeiten und offene Fragen.",
+    "audience": "Qualitätsmanagement und Prozessverantwortliche",
+    "sources": [
+      "who_documents",
+      "qm",
+      "process"
+    ]
+  },
+  {
+    "slug": "klinik-verbesserung-erproben",
+    "title": "Eine Verwaltungsverbesserung schrittweise erproben",
+    "description": "Plane oder werte eine kleine administrative Verbesserung nach dem PDSA-Verfahren aus: planen, erproben, untersuchen und anpassen.",
+    "audience": "Qualitätsmanagement, Stations- und Verwaltungsleitung",
+    "sources": [
+      "pdsa",
+      "qm"
+    ]
+  },
+  {
+    "slug": "klinik-teambesprechung-vorbereiten",
+    "title": "Besprechungen vorbereiten und nachbereiten",
+    "description": "Erstelle eine kurze administrative Vor-, Zwischen- oder Nachbesprechung nach TeamSTEPPS und dokumentiere belegte Entscheidungen aus bereitgestellten Notizen.",
+    "audience": "Ärztliche Leitung, Pflegeleitung und Verwaltung",
+    "sources": [
+      "team",
+      "team_evidence"
+    ]
+  },
+  {
+    "slug": "klinik-ereignis-aufarbeiten",
+    "title": "Lernen nach einem Ereignis vorbereiten",
+    "description": "Bereite eine systembezogene Aufarbeitung eines abgeschlossenen Krankenhausereignisses nach PSIRF-Prinzipien vor. Ordne Fakten, Perspektiven und offene Untersuchungsfragen.",
+    "audience": "Qualitätsmanagement und qualifizierte Untersuchungsleitung",
+    "sources": [
+      "psirf",
+      "psirf_guide",
+      "qm"
+    ]
+  },
+  {
+    "slug": "klinik-auswahlgespraech-vorbereiten",
+    "title": "Strukturierte Auswahlgespräche vorbereiten",
+    "description": "Entwickle tätigkeitsbezogene Fragen und einheitliche Bewertungsanker für Auswahlgespräche im Krankenhaus nach OPM-Methodik. Die Arbeitshilfe gestaltet das Verfahren.",
+    "audience": "Personalabteilung und einstellende Führungskräfte",
+    "sources": [
+      "opm",
+      "opm_guide",
+      "agg"
+    ]
+  },
+  {
+    "slug": "klinik-patienteninformation-ueberarbeiten",
+    "title": "Patienteninformationen verständlich überarbeiten",
+    "description": "Überarbeite freigegebene Patienteninformationen oder administrative Schreiben nach AHRQ-Prinzipien für verständliche und handlungsorientierte Texte. Bewahre medizinische Inhalte.",
+    "audience": "Patientenkommunikation, Fachabteilungen und Verwaltung",
+    "sources": [
+      "literacy",
+      "literacy_all"
+    ]
+  },
+  {
+    "slug": "klinik-verwaltungsdaten-pruefen",
+    "title": "Verwaltungsdaten mit OpenRefine prüfen",
+    "description": "Bereite eine nachvollziehbare Bereinigung nichtklinischer Krankenhausdaten mit OpenRefine vor oder begleite vorhandene Arbeitsschritte. Erhalte Schlüssel, Rohdaten und Änderungsverlauf.",
+    "audience": "Verwaltung, Controlling und Qualitätsmanagement",
+    "sources": [
+      "refine",
+      "refine_edit",
+      "refine_run"
+    ]
+  },
+  {
+    "slug": "klinik-wirtschaftlichkeit-pruefen",
+    "title": "Wirtschaftlichkeit einer Verwaltungsänderung prüfen",
+    "description": "Erstelle eine nachvollziehbare Wirtschaftlichkeitsbetrachtung für eine administrative Krankenhausänderung mit Handlungsalternativen, Kosten, Kapazität und Unsicherheit.",
+    "audience": "Geschäftsführung, Controlling und Bereichsleitung",
+    "sources": [
+      "greenbook"
+    ]
+  },
+  {
+    "slug": "klinik-anwendung-erproben",
+    "title": "Erprobung einer digitalen Anwendung planen",
+    "description": "Entwickle einen nachvollziehbaren Erprobungs- und Nachweisplan für eine digitale Krankenhausanwendung nach NICE-Evidenzprinzipien.",
+    "audience": "Projektleitung, Fachabteilung und Qualitätsmanagement",
+    "sources": [
+      "nice",
+      "nice_use",
+      "dtac_review"
+    ]
+  }
+]

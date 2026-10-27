@@ -1,0 +1,4 @@
+interface:
+  display_name: Besprechungen vorbereiten und nachbereiten
+  short_description: Besprechungen vorbereiten und nachbereiten
+  default_prompt: Verwende $klinik-teambesprechung-vorbereiten und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

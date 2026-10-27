@@ -1,0 +1,4 @@
+interface:
+  display_name: Patienteninformationen verständlich überarbeiten
+  short_description: Patienteninformationen verständlich überarbeiten
+  default_prompt: Verwende $klinik-patienteninformation-ueberarbeiten und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

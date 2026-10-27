@@ -1,0 +1,4 @@
+interface:
+  display_name: Internetseite eines Krankenhauses prüfen
+  short_description: Internetseite eines Krankenhauses prüfen
+  default_prompt: Verwende $klinik-internetseite-pruefen und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

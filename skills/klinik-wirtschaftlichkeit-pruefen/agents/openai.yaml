@@ -1,0 +1,4 @@
+interface:
+  display_name: Wirtschaftlichkeit einer Verwaltungsänderung prüfen
+  short_description: Wirtschaftlichkeit einer Verwaltungsänderung prüfen
+  default_prompt: Verwende $klinik-wirtschaftlichkeit-pruefen und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

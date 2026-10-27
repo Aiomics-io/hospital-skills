@@ -1,0 +1,4 @@
+interface:
+  display_name: Erprobung einer digitalen Anwendung planen
+  short_description: Erprobung einer digitalen Anwendung planen
+  default_prompt: Verwende $klinik-anwendung-erproben und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.

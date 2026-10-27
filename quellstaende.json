@@ -1,0 +1,42 @@
+[
+  {
+    "projekt": "GoogleChrome/lighthouse",
+    "sterne": 30955,
+    "stand": "1a4ffa418258919adbbf6ccca548c02e0092bafd",
+    "datei": "readme.md",
+    "lizenz": "Apache-2.0",
+    "abgerufen": "2026-10-27"
+  },
+  {
+    "projekt": "dequelabs/axe-core",
+    "sterne": 7713,
+    "stand": "6b52b841461bd23345970b91ec75fdaff6bad31a",
+    "datei": "README.md",
+    "lizenz": "MPL-2.0",
+    "abgerufen": "2026-10-27"
+  },
+  {
+    "projekt": "OpenRefine/OpenRefine",
+    "sterne": 12073,
+    "stand": "ba887cacc5a3a6dc06c1f66f0fdc5f61694ae6e4",
+    "datei": "README.md",
+    "lizenz": "BSD-3-Clause",
+    "abgerufen": "2026-10-27"
+  },
+  {
+    "projekt": "coreyhaines31/marketingskills",
+    "sterne": 56759,
+    "stand": "17772c7a80b7b8c7a47af30f648374cd8bd8adc5",
+    "datei": "skills/seo-audit/SKILL.md",
+    "lizenz": "MIT",
+    "abgerufen": "2026-10-27"
+  },
+  {
+    "projekt": "anthropics/knowledge-work-plugins",
+    "sterne": 33294,
+    "stand": "c75fda00ff0e41c8ee331ae312c8a07f1967653b",
+    "datei": "operations/skills/process-doc/SKILL.md",
+    "lizenz": "Apache-2.0",
+    "abgerufen": "2026-10-27"
+  }
+]

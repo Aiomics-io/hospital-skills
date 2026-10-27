@@ -1,0 +1,4 @@
+interface:
+  display_name: Datenschutz-Folgenabschätzung vorbereiten
+  short_description: Datenschutz-Folgenabschätzung vorbereiten
+  default_prompt: Verwende $klinik-datenschutzfolgen-pruefen und bearbeite meinen Auftrag anhand der bereitgestellten Unterlagen.
